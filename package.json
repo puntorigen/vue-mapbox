@@ -36,8 +36,7 @@
     "map-promisified": "latest"
   },
   "peerDependencies": {
-    "mapbox-gl": "2.5.1",
-    "vue": "2.6.7"
+    "mapbox-gl": "2.5.1"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.11.5",
